@@ -6,6 +6,7 @@
 
 <h2>Code Editor</h1>
 <li>PyCharm<li>
+ <li>Atom/li>
 <li>IntelliJ IDEA</li>
  <li>Microsoft Visual Studio</li>
 <li>NetBeans</li>
