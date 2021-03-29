@@ -10,3 +10,6 @@
 <li>IntelliJ IDEA</li>
  <li>Microsoft Visual Studio</li>
 <li>NetBeans</li>
+
+<h2>Clone Repo with Git</h2>
+<pre>git clone https://github.com/fatihwin-yt/a-Python-Tutorial-of-2021.git</pre>
